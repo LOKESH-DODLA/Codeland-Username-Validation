@@ -10,8 +10,10 @@ Have the function CodelandUsernameValidation(str) take the str parameter being p
 
 If the username is valid then your program should return the string true, otherwise return the string false.
 Examples
-!) Input: "aa_"
+1) Input: "aa_"
   Output: false
+
+
 
 2) Input: "u__hello_world123"
 Output: true
